@@ -16,6 +16,12 @@ let dados = [
         descricao: "Rebeca Andrade é uma ginasta brasileira que conquistou a medalha de prata nas Olimpíadas de Tóquio 2020. Sua versatilidade e carisma a tornaram uma das atletas mais populares do Brasil.",
         link: "https://pt.wikipedia.org/wiki/Rebeca_Andrade",
         tags: "ginástica ginastica ouro"
+      },
+      {
+        titulo: "Tatiana Weston-Webb",
+        descricao: "Tatiana Guimarães Weston-Webb é uma surfista profissional brasileira-americana que vem conquistando o mundo das ondas. Nascida em Porto Alegre, mas radicada em Kauai, no Havaí, Tati, como é carinhosamente chamada, é conhecida por sua técnica apurada, determinação e estilo único.",
+        link: "https://pt.wikipedia.org/wiki/Tatiana_Weston-Webb",
+        tags: "surfista ondas Tati"
       }
 
     ];
